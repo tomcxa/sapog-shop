@@ -1,0 +1,7 @@
+.switcher {
+    text-align: right;
+}
+
+.switcher span {
+    cursor: pointer;
+}
